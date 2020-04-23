@@ -8,3 +8,11 @@
 * URL: http://www.kohala.com/start/apue.html
 
 * Source code: https://github.com/arm-tangb/apue/blob/master/apue
+
+## Advanced Programming in the UNIX® Environment, Second Edition
+
+* Description: Advanced Programming in the UNIX Environment, Addison-Wesley.
+
+* URL: http://www.apuebook.com/apue2e.html
+
+* Source code: https://github.com/arm-tangb/apue/blob/master/apue.2e
