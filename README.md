@@ -16,3 +16,11 @@
 * URL: http://www.apuebook.com/apue2e.html
 
 * Source code: https://github.com/arm-tangb/apue/blob/master/apue.2e
+
+## Advanced Programming in the UNIX® Environment, Third Edition
+
+* Description: Advanced Programming in the UNIX Environment, Third Edition.
+
+* URL: http://www.apuebook.com/apue3e.html
+
+* Source code: https://github.com/arm-tangb/apue/blob/master/apue.3e
